@@ -1,0 +1,1 @@
+web: gunicorn marykay-sys.wsgi --log-file -
