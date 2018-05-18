@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn marykay-sys:app
