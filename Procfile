@@ -1,1 +1,0 @@
-web: gunicorn marykay-sys:app
